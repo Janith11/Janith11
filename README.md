@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janith Pramuditha
 - 👀 I’m interested to develop new software ideas
-- 🌱 I’m currently learning Angular with mobile frameworks
+- 🌱 I’m currently working with ASP.Net Core with Angular projects
 - 💞️ I’m looking to collaborate on new developers
 - 📫 You reach me on my email address janithpramuditha042@gmail.com
 
